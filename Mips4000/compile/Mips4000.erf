@@ -1,0 +1,84 @@
+MESSAGE "Pass 1. Scanning modules hierarchy."
+MESSAGE_SP VCP2113 "Module \$root found in current working library."
+BEGINPROGRESS Compiling...
+UPDATEPROGRESS 1
+UPDATEPROGRESS 2
+UPDATEPROGRESS 4
+UPDATEPROGRESS 5
+UPDATEPROGRESS 6
+UPDATEPROGRESS 8
+UPDATEPROGRESS 9
+UPDATEPROGRESS 10
+UPDATEPROGRESS 12
+UPDATEPROGRESS 13
+UPDATEPROGRESS 14
+UPDATEPROGRESS 16
+UPDATEPROGRESS 17
+UPDATEPROGRESS 18
+UPDATEPROGRESS 20
+UPDATEPROGRESS 21
+UPDATEPROGRESS 22
+UPDATEPROGRESS 24
+UPDATEPROGRESS 25
+UPDATEPROGRESS 26
+UPDATEPROGRESS 28
+UPDATEPROGRESS 29
+UPDATEPROGRESS 30
+UPDATEPROGRESS 32
+UPDATEPROGRESS 33
+UPDATEPROGRESS 35
+MESSAGE_SP VCP2113 "Module DataPathTop found in current working library."
+MESSAGE_SP VCP2113 "Module MooreMachine found in current working library."
+MESSAGE "Pass 2. Processing instantiations."
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol over1 has not been declared in module ALU_Top." "c:/My_Designs/Mips4000/Mips4000/src/ALU_Top.v" 58 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol over2 has not been declared in module ALU_Top." "c:/My_Designs/Mips4000/Mips4000/src/ALU_Top.v" 67 1
+UPDATEPROGRESS 37
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol m0 has not been declared in module extendMux." "c:/My_Designs/Mips4000/Mips4000/src/extendMux.v" 31 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol m1 has not been declared in module extendMux." "c:/My_Designs/Mips4000/Mips4000/src/extendMux.v" 32 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol m2 has not been declared in module extendMux." "c:/My_Designs/Mips4000/Mips4000/src/extendMux.v" 33 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol m3 has not been declared in module extendMux." "c:/My_Designs/Mips4000/Mips4000/src/extendMux.v" 34 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol m4 has not been declared in module extendMux." "c:/My_Designs/Mips4000/Mips4000/src/extendMux.v" 35 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol m5 has not been declared in module extendMux." "c:/My_Designs/Mips4000/Mips4000/src/extendMux.v" 36 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol m6 has not been declared in module extendMux." "c:/My_Designs/Mips4000/Mips4000/src/extendMux.v" 37 1
+UPDATEPROGRESS 40
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol m7 has not been declared in module extendMux." "c:/My_Designs/Mips4000/Mips4000/src/extendMux.v" 38 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol m8 has not been declared in module extendMux." "c:/My_Designs/Mips4000/Mips4000/src/extendMux.v" 39 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol m9 has not been declared in module extendMux." "c:/My_Designs/Mips4000/Mips4000/src/extendMux.v" 40 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol m10 has not been declared in module extendMux." "c:/My_Designs/Mips4000/Mips4000/src/extendMux.v" 41 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol m11 has not been declared in module extendMux." "c:/My_Designs/Mips4000/Mips4000/src/extendMux.v" 42 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol m12 has not been declared in module extendMux." "c:/My_Designs/Mips4000/Mips4000/src/extendMux.v" 43 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol m13 has not been declared in module extendMux." "c:/My_Designs/Mips4000/Mips4000/src/extendMux.v" 44 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol m14 has not been declared in module extendMux." "c:/My_Designs/Mips4000/Mips4000/src/extendMux.v" 45 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol m15 has not been declared in module extendMux." "c:/My_Designs/Mips4000/Mips4000/src/extendMux.v" 46 1
+UPDATEPROGRESS 42
+UPDATEPROGRESS 45
+MESSAGE "Pass 3. Processing behavioral statements."
+UPDATEPROGRESS 62
+UPDATEPROGRESS 80
+MESSAGE "Running Optimizer."
+MESSAGE "ELB/DAG code generating."
+MESSAGE_SP VCP2113 "Module \$root found in current working library."
+UPDATEPROGRESS 81
+UPDATEPROGRESS 82
+UPDATEPROGRESS 83
+UPDATEPROGRESS 84
+UPDATEPROGRESS 85
+UPDATEPROGRESS 86
+UPDATEPROGRESS 87
+UPDATEPROGRESS 88
+UPDATEPROGRESS 89
+UPDATEPROGRESS 90
+UPDATEPROGRESS 91
+UPDATEPROGRESS 92
+UPDATEPROGRESS 93
+UPDATEPROGRESS 94
+UPDATEPROGRESS 95
+UPDATEPROGRESS 96
+UPDATEPROGRESS 97
+UPDATEPROGRESS 98
+UPDATEPROGRESS 99
+MESSAGE "Unit top modules: CPU_Test."
+MESSAGE "$root top modules: CPU_Test."
+ENDPROGRESS Compiling...
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time: 0[s]."
+MESSAGE "done"

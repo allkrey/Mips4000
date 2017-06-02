@@ -1,0 +1,101 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=Mips4000
+
+[Library]
+Mips4000=.\Mips4000.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\Users\ßנמסכאג\Desktop\ׁנק\גץהכ\נאבמקוו2\MIPS-4000\V-Files
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+Mips4000=.
+Active_lib=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/ALU_MUX.v=-1
+/ALU_Top.v=-1
+/AND_32bit.v=-1
+/CPU.v=-1
+/CPU_Test.v=-1
+/CS_Adder.v=-1
+/DFF.v=-1
+/DMem.v=-1
+/extendMux.v=-1
+/fourx1_32bit.v=-1
+/fulladderDelay.v=-1
+/IMem.v=-1
+/Instr_Decode.v=-1
+/Less_Than_S.v=-1
+/Less_Than_U.v=-1
+/LoadSave_Dec.v=-1
+/nbit_demux.v=-1
+/nbit_mux.v=-1
+/nbit_reg.v=-1
+/nbit_register_file.v=-1
+/OR_32bit.v=-1
+/Sub_32.v=-1
+/twox1_5bit.v=-1
+/twox1_32bit.v=-1
+/xor_1bit.v=-1
+/Xor_32.v=-1
+
+[Files.Data]
+.\src\ALU_MUX.v=Verilog Source Code
+.\src\ALU_Top.v=Verilog Source Code
+.\src\AND_32bit.v=Verilog Source Code
+.\src\CPU.v=Verilog Source Code
+.\src\CPU_Test.v=Verilog Source Code
+.\src\CS_Adder.v=Verilog Source Code
+.\src\DFF.v=Verilog Source Code
+.\src\DMem.v=Verilog Source Code
+.\src\extendMux.v=Verilog Source Code
+.\src\fourx1_32bit.v=Verilog Source Code
+.\src\fulladderDelay.v=Verilog Source Code
+.\src\IMem.v=Verilog Source Code
+.\src\Instr_Decode.v=Verilog Source Code
+.\src\Less_Than_S.v=Verilog Source Code
+.\src\Less_Than_U.v=Verilog Source Code
+.\src\LoadSave_Dec.v=Verilog Source Code
+.\src\nbit_demux.v=Verilog Source Code
+.\src\nbit_mux.v=Verilog Source Code
+.\src\nbit_reg.v=Verilog Source Code
+.\src\nbit_register_file.v=Verilog Source Code
+.\src\OR_32bit.v=Verilog Source Code
+.\src\Sub_32.v=Verilog Source Code
+.\src\twox1_5bit.v=Verilog Source Code
+.\src\twox1_32bit.v=Verilog Source Code
+.\src\xor_1bit.v=Verilog Source Code
+.\src\Xor_32.v=Verilog Source Code
+

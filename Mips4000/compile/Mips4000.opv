@@ -1,0 +1,1 @@
+ -erf "c:\My_Designs\Mips4000\Mips4000\compile\Mips4000.erf" -work Mips4000 -lc c:/My_Designs/Mips4000/library.cfg -fl c:/My_Designs/Mips4000/Mips4000/projlib.cfg -o c:/My_Designs/Mips4000/Mips4000/compile -l "Mips4000" -sve   -O2
